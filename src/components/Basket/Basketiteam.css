@@ -1,0 +1,23 @@
+.basket-item span {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  
+  .basket-item button {
+    font-size: 1.2rem;
+    padding: 0.4rem 0.8rem;
+  }
+  
+  .basket-item .ms-3 {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  
+  .basket-item .me-2 {
+    margin-right: 0.5rem;
+  }
+  
+  .basket-item .mx-2 {
+    margin: 0 0.5rem;
+  }
+  
